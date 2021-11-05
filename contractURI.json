@@ -1,0 +1,7 @@
+{
+  "name": "1155Cats for testing",
+  "description": "Opensea name, uri testing. 1155. cats.",
+  "image": "https://freesvg.org/img/catface.png",
+  "seller_fee_basis_points": 1000, # Indicates a 1% seller fee.
+  "fee_recipient": "0x44F3747017Cc79a0D55914C20bf6666194359CD7" # Where seller fees will be paid to.
+}
